@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devhasibulislam&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="devhasibulislam" data-canonical-src="https://komarev.com/ghpvc/?username=devhasibulislam&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+  <img src="https://komarev.com/ghpvc/?username=Nikhilverma2002&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Nikhilverma2002" data-canonical-src="https://komarev.com/ghpvc/?username=Nikhilverma2002&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 </div>
 
 ###
@@ -12,28 +12,28 @@
   <a href="https://www.youtube.com/@CodeCraftMERN/videos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/devhasibulislam/" target="_blank">
+  <a href="https://linkedin.com/in/Nikhilverma2002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://facebook.com/devhasibulislam/" target="_blank">
+  <a href="https://facebook.com/Nikhilverma2002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/devhasibulislam/" target="_blank">
+  <a href="https://instagram.com/Nikhilverma2002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/devhasibulislam/" target="_blank">
+  <a href="https://twitter.com/Nikhilverma2002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://pinterest.com/devhasibulislam/" target="_blank">
+  <a href="https://pinterest.com/Nikhilverma2002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"  />
   </a>
   <a href="https://wa.me/8801906315901" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://t.me/devhasibulislam" target="_blank">
+  <a href="https://t.me/Nikhilverma2002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://discord.com/users/devhasibulislam" target="_blank">
+  <a href="https://discord.com/users/Nikhilverma2002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">I'm <b><mark>Hasibul Islam</mark></b><br><br>- 🔭 I’m an Experienced MERN Stack Developer<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me <b><a href="mailto:devhasibulislam@gmail.com">devhasibulislam@gmail.com</a></b><br>-⚡ Fun fact I think I am funny.</p>
+<p align="left">I'm <b><mark>Hasibul Islam</mark></b><br><br>- 🔭 I’m an Experienced MERN Stack Developer<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me <b><a href="mailto:Nikhilverma2002@gmail.com">Nikhilverma2002@gmail.com</a></b><br>-⚡ Fun fact I think I am funny.</p>
 
 ###
 
@@ -86,10 +86,10 @@
 <br clear="both">
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devhasibulislam&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devhasibulislam&amp;theme=dark" style="max-width: 100%;">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhasibulislam&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhasibulislam&amp;theme=dark" style="max-width: 100%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devhasibulislam&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1" height="163em" alt="stats graph" data-canonical-src="https://github-readme-stats.vercel.app/api?username=devhasibulislam&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1" style="max-width: 100%;">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devhasibulislam&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devhasibulislam&amp;theme=dark" style="max-width: 100%;">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhilverma2002&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikhilverma2002&amp;theme=dark" style="max-width: 100%;">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhilverma2002&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikhilverma2002&amp;theme=dark" style="max-width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhilverma2002&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1" height="163em" alt="stats graph" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Nikhilverma2002&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=en&amp;hide_border=false&amp;order=1" style="max-width: 100%;">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhilverma2002&amp;theme=dark" height="163em" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhilverma2002&amp;theme=dark" style="max-width: 100%;">
 </div>
 
 ###
