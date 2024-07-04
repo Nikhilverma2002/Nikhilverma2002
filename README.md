@@ -9,38 +9,24 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@CodeCraftMERN/videos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://linkedin.com/in/Nikhilverma2002/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/nikhilverma-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://facebook.com/Nikhilverma2002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/Nikhilverma2002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/Nikhilverma2002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://pinterest.com/Nikhilverma2002/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Pinterest&logo=pinterest&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pinterest logo"  />
-  </a>
-  <a href="https://wa.me/8801906315901" target="_blank">
+ 
+
+
+
+  <a href="https://wa.me/916264714906" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://t.me/Nikhilverma2002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.com/users/Nikhilverma2002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+
+
 </div>
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Nikhil Verma 👩‍💻</h1>
 
 ###
 
@@ -49,7 +35,7 @@
 
 ###
 
-<p align="left">I'm <b><mark>Hasibul Islam</mark></b><br><br>- 🔭 I’m an Experienced MERN Stack Developer<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me <b><a href="mailto:Nikhilverma2002@gmail.com">Nikhilverma2002@gmail.com</a></b><br>-⚡ Fun fact I think I am funny.</p>
+<p align="left">I'm <b><mark>Nikhil Verma</mark></b><br><br>- 🔭 I’m an Experienced Android & Flutter developer. <br>- 📚 I'm currently learning MERN Stack<br>- 📫 How to reach me <b><a href="mailto:nikhilverma.nv345@gmail.com">nikhilverma.nv345@gmail.com</a></b></p>
 
 ###
 
