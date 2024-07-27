@@ -49,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" width="33" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" width="33" alt="mongodb logo"  />
   <img src="https://freebiehive.com/wp-content/uploads/2022/10/Google-flutter-logo.jpg" height="28" width="33" alt="flutter logo"  />
-  <img src="[https://freebiehive.com/wp-content/uploads/2022/10/Google-flutter-logo.jpg](https://w7.pngwing.com/pngs/279/249/png-transparent-java-logo-programming-language-java-plum-miscellaneous-text-orange.png)" height="28" width="33" alt="java logo"  />
+  <img src="https://w7.pngwing.com/pngs/279/249/png-transparent-java-logo-programming-language-java-plum-miscellaneous-text-orange.png" height="28" width="33" alt="java logo"  />
   
   <img src="https://w7.pngwing.com/pngs/834/261/png-transparent-android-ios-handheld-devices-computer-file-android-android-logo-leaf-text-logo.png" height="28" width="33" alt="android logo"  />
   
